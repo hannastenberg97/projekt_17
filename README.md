@@ -1,1 +1,2 @@
-# projekt_17
+# gik339-17-projekt
+Projektarbete
